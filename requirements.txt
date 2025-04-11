@@ -1,0 +1,9 @@
+streamlit
+newsapi-python
+vaderSentiment
+yfinance
+alpaca-trade-api
+scikit-learn
+pandas
+numpy
+tensorflow
